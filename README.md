@@ -1,4 +1,4 @@
-# 🌱 Plant Disease Detection Using MobileNetV2
+# 🌱 Plant Disease Detection
 
 ## 📌 Project Overview
 A deep learning-based image classification project that detects plant diseases from leaf images using the MobileNetV2 architecture.
@@ -9,7 +9,7 @@ To identify plant diseases through leaf image classification and support early d
 ## 🛠️ Technologies Used
 - Python
 - Deep Learning
-- TensorFlow / Keras (if used)
+- TensorFlow / Keras 
 - MobileNetV2
 - Image Processing
 
